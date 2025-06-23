@@ -1,4 +1,4 @@
-# Monitor de Riesgo de Inversiones Argentinas
+
 
 Aplicación web interactiva construida con Streamlit.
 Permite cargar una cartera de activos en formato CSV y visualizar resultados simulados (placeholder).
